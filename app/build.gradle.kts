@@ -30,7 +30,6 @@ chaquopy {
         version = "3.11"
        pip {
     install("yt-dlp")
-    install("yt-dlp-ejs")
 }
     }
 }
