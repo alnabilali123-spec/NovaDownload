@@ -28,10 +28,10 @@ android {
 chaquopy {
     defaultConfig {
         version = "3.11"
-        pip {
-            install("yt-dlp==2026.07.21")
-            install("yt-dlp-ejs==2024.11.17")
-        }
+       pip {
+    install("yt-dlp")
+    install("yt-dlp-ejs")
+}
     }
 }
 dependencies {
