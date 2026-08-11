@@ -1,0 +1,3 @@
+-keep class com.chaquo.python.** { *; }
+-keep class com.arthenica.ffmpegkit.** { *; }
+-keep class com.novadownload.core.engine.** { *; }
